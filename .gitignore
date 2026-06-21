@@ -1,0 +1,9 @@
+# Material fuente / no necesario para el sitio
+*.pdf
+
+# Config local de Claude Code
+.claude/
+
+# Temporales
+_pdf_preview/
+_shot_*.png
